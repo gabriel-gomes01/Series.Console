@@ -1,0 +1,13 @@
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\obj\Debug\netcoreapp3.1\Series.Dio.csproj.AssemblyReference.cache
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\obj\Debug\netcoreapp3.1\Series.Dio.AssemblyInfoInputs.cache
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\obj\Debug\netcoreapp3.1\Series.Dio.AssemblyInfo.cs
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\obj\Debug\netcoreapp3.1\Series.Dio.csproj.CoreCompileInputs.cache
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\bin\Debug\netcoreapp3.1\Series.Dio.exe
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\bin\Debug\netcoreapp3.1\Series.Dio.deps.json
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\bin\Debug\netcoreapp3.1\Series.Dio.runtimeconfig.json
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\bin\Debug\netcoreapp3.1\Series.Dio.runtimeconfig.dev.json
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\bin\Debug\netcoreapp3.1\Series.Dio.dll
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\bin\Debug\netcoreapp3.1\Series.Dio.pdb
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\obj\Debug\netcoreapp3.1\Series.Dio.dll
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\obj\Debug\netcoreapp3.1\Series.Dio.pdb
+D:\Programing\Projetos em C#\Series.Dio\Series.Dio\obj\Debug\netcoreapp3.1\Series.Dio.genruntimeconfig.cache
